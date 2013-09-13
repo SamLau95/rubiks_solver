@@ -1,5 +1,7 @@
 https://github.com/SamLau95/rubiks_solver
 
+Blueprint Coding Challenge
+
 Our team decided that the best way to approach the Rubik's Cube problem was to take existing code and try
 to modify it to fit the problem rather than reinventing the wheel. Because of this, most of our time was spent
 figuring out what the old code does - rather than spending a short amount of time prototyping a Cube class and
@@ -9,6 +11,10 @@ the later problems would be easy.
 We found an open source Rubik's Cube solver at http://pastebin.com/KwGMujyB and used Nitrous.IO to 
 collaborate in real-time as opposed to git, which would involve pushing milestones. We documented the old code
 on paper and verbally.
+
+Note that we did not implement the solving algorithm ourselves. However, possible ideas for solving algorithms are:
+- Breadth-First Search (brute-force, slow, probably only reason for ~5 moves away)
+- A* Search (faster with good heuristic - possible to use # of tiles wrong)
 
 Screenshorts at http://imgur.com/w29x7IA,beWWBoy,5SlVuxC#0
 
