@@ -1,7 +1,8 @@
+https://github.com/SamLau95/rubiks_solver
+
 Our team decided that the best way to approach the Rubik's Cube problem was to take existing code and try to modify it to fit the problem rather than reinventing the wheel. Because of this, most of our time was spent figuring out what the old code does - rather than spending a short amount of time prototyping a Cube class and spending more time on the later questions, we wanted to spend more time upfront interfacing the cube so that the later problems would be easy.
 
 We found an open source Rubik's Cube solver at http://pastebin.com/KwGMujyB and used Nitrous.IO to collaborate in real-time as opposed to git, which would involve pushing milestones. We documented the old code on paper and verbally.
-
 
 
 Sam:
