@@ -16,7 +16,7 @@ Note that we did not implement the solving algorithm ourselves. However, possibl
 - Breadth-First Search (brute-force, slow, probably only reason for ~5 moves away)
 - A* Search (faster with good heuristic - possible to use # of tiles wrong)
 
-Screenshorts at http://imgur.com/w29x7IA,beWWBoy,5SlVuxC#0
+Screenshots at http://imgur.com/w29x7IA,beWWBoy,5SlVuxC#0
 
 Sam:
 - Helped read and document the old code
